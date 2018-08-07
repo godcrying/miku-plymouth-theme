@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Miku
+Description=Miku plugin.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/miku/img
+ScriptFile=/usr/share/plymouth/themes/miku/miku.script
